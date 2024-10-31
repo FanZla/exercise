@@ -1,0 +1,2 @@
+# exercise
+First GIT project
